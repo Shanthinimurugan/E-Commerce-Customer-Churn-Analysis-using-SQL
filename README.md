@@ -6,7 +6,7 @@ This project focuses on analyzing e-commerce customer data using SQL to understa
 
 This project focuses on analyzing customer churn data for an e-commerce platform using **MySQL**. By analyzing customer behavior, transactional histories, logistics data, and support interactions, the project uncovers critical friction points influencing customer retention. The analysis follows a structured data framework—spanning descriptive, diagnostic, predictive, and prescriptive phases—to provide actionable, data-driven recommendations aimed at reducing churn and improving overall Customer Lifetime Value (LTV).
 
-## ❓ 2. Problem Statement
+## ❓ Problem Statement
 
 •  Analyze customer data to identify patterns and factors contributing to customer churn in the e-commerce industry.
 •  Identify the number of active and churned customers to understand customer retention levels.
