@@ -123,7 +123,7 @@ To optimize customer retention, protect marketing margins, and secure long-term 
 4. Execute the cleaning scripts sequentially to clean the tables and set up the analytics columns.
 5. Run the diagnostic queries to generate real-time metrics reporting on operational churn indicators.
 
-   # ✅ Conclusion
+## ✅ **Conclusion**
 
 This project helped analyze e-commerce customer behavior and understand customer churn patterns using MySQL. Data cleaning, transformation, and SQL queries were used to organize customer information and perform meaningful analysis.
 The analysis covered customer retention, purchase behavior, payment preferences, complaints, satisfaction scores, cashback, and product returns.
